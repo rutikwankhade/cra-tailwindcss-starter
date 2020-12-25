@@ -1,4 +1,6 @@
 # Create React App + Tailwind CSS
+![screenshot (70)](https://user-images.githubusercontent.com/47467468/103127508-1a0e3e80-46b8-11eb-9d7d-91866a0e8e55.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
