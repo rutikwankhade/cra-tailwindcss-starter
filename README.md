@@ -6,6 +6,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Setting up Tailwind CSS ](https://tailwindcss.com/docs/guides/create-react-app) in a Create React App project.
 
+
+## Installation
+
+Clone the repository
+- `git clone https://github.com/rutikwankhade/cra-tailwindcss-starter`
+
+Change your current directory
+- `cd cra-tailwindcss-starter`
+
+Install all the required dependencies and run 
+- `npm install`
+- `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
